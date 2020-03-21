@@ -1,8 +1,7 @@
 package epam.junit;
 
 public class DeleteFirst2A {
-	public String delete(String string) 
-		{
+	public String delete(String string) {
 			int StringLength=string.length();
 			String result;
 			if(StringLength<= 2){
