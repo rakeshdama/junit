@@ -7,9 +7,9 @@ import org.junit.jupiter.api.Test;
 
 class DeletefirstATest {
 		/* TODO LIST
-		 * 1. 1 char : A =>""						success
+		 * 1. 1 char : A =>""					success
 		 * 2. 2 chars : AB => B		AA => ""  		success
-		 * 3. 4 chars : AACD => CD    BACD => BCD  	success
+		 * 3. 4 chars : AACD => CD    BACD => BCD  		success
 		 * 4. n chars : AABAA => BAA				success
 		 * 5. empty chars : "" => ""				success
 		 */
